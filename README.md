@@ -209,6 +209,8 @@ Le fichier principal `main.py` contient le code principal du jeu, y compris la c
 
 > Pour plus de challenge je vous invite à ne pas regarder la suite du README et à essayer vous-même de concevoir le GUI et la boucle de gameplay. Toutefois si vous l'ouvrez, ne vous laissez pas impressionner par la longueur du code. Les mécaniques restent simples, ormis les fonctions de GUI qui sont un peu plus complexes, mais quasiment équivalentes à ce qu'on a déjà pu faire.
 
+> Vous pouvez également trouver un énoncé détaillé sur la façon de réaliser le projet ici : [Projet RPG - Enoncé](Realiser-le-main.md)
+
 <details>
   <summary>Spoiler warning</summary>
   
