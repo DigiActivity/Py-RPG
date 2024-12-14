@@ -73,3 +73,11 @@ class Inventory:
     
     def add(self, item):
         self.items.append(item)
+    
+    def drop(self):
+        # renvoie une liste d'items drop
+        l = []
+        for item in self.items:
+            if item.drop_rate > random.random():
+                l.append(item)
+        return l
